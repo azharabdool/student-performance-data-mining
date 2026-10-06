@@ -1,0 +1,14 @@
+{
+  "name": "student-performance-data-mining",
+  "description": "Student segmentation and held-out classification with scikit-learn preprocessing pipelines.",
+  "topics": [
+    "machine-learning",
+    "data-mining",
+    "python",
+    "scikit-learn",
+    "pandas"
+  ],
+  "visibility": "public-release-approved",
+  "branch": "main",
+  "license": "not-assigned-pending-rights-review"
+}
